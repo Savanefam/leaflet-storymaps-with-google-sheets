@@ -65,7 +65,7 @@ body {
   margin: 50px 0 0 0;
   padding: 20px 0 0 0;
   text-align: center;
-  color: #90ee90;
+  color: black;
 }
 
 .chapter-container img {
@@ -123,6 +123,7 @@ a.source:visited {
 
 .in-focus {
   opacity: 1.0;
+  background-color: purple; 
 }
 
 .out-focus {
