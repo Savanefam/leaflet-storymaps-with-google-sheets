@@ -121,8 +121,9 @@ a.source:visited {
   padding: 20px;
 }
 
-.in-focus {
+#in-focus {
   opacity: 1.0;
+  color-background: #CBC3E3; 
   
 }
 
