@@ -22,7 +22,7 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
-  color: cyan;
+  background-color: purple;
 }
 
 #contents {
@@ -32,8 +32,8 @@ body {
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
   overflow-x: hidden;
-  color: #CBC3E3;
-  background-color: #CBC3E3;
+  color: purple;
+  background-color: purple;
 }
 
 #top {
@@ -93,7 +93,7 @@ body {
   height: 200px;
   max-height: 200px;
   width: 100%;
-  color: #CBC3E3;
+  color: purple;
 }
 
 .audio-container {
@@ -115,7 +115,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: #CBC3E3;
+  color: purple;
 }
 a.source:visited {
   color: #CBC3E3;
@@ -126,6 +126,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  background-color: purple;
 }
 
 .in-focus {
