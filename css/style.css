@@ -130,7 +130,7 @@ a.source:visited {
 
 .in-focus {
   opacity: 1.0;
-  background-color: #CBC3E3; 
+  background-color: purple; 
   
 }
 
@@ -162,6 +162,7 @@ a.source:visited {
   text-align: center;
   padding: 10px;
   max-width: 100%;
+  color: purple;
 }
 
 #logo img {
@@ -173,7 +174,7 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #333;
+  color: purple;
 }
 
 /* Storymap title & subtitle */
