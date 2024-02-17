@@ -13,7 +13,7 @@ body {
   border-bottom: 3px solid orange;
   top: 0;
   left: 0;
-  color: light-green;
+
 }
 
 #narration {
@@ -22,7 +22,7 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
-  color-background: #CBC3E3;
+  background-color: #CBC3E3;
 }
 
 #contents {
